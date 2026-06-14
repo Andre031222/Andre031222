@@ -4,11 +4,11 @@
      ============================================================ -->
 <table border="0" align="center">
   <tr>
-    <td align="center" width="210">
-      <img src="https://i.pinimg.com/736x/b7/e9/99/b7e9993863151e63082437801c9f54be.jpg" width="190" alt="CR7"/>
+    <td align="center" width="230">
+      <img src="https://i.pinimg.com/736x/f0/58/25/f058252005f128db3038edc3ea0f891e.jpg" height="330" alt="CR7"/>
     </td>
     <td align="center">
-      <h1>I'm Andre Vilca-Solorzano</h1>
+      <h1>I'm R. Andre Vilca Solorzano</h1>
       <h3>ML Researcher &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Remote Sensing &amp; Astrophysics</h3>
       <p>
         <a href="https://andre.net.pe"><img src="https://img.shields.io/badge/Website-0F2444?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -18,8 +18,8 @@
         <a href="https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=414027"><img src="https://img.shields.io/badge/CTI%20Vitae-CONCYTEC-1565C0?style=for-the-badge"></a>
       </p>
     </td>
-    <td align="center" width="210">
-      <img src="https://i.pinimg.com/736x/36/56/0d/36560d19df39d1bbd7d5c7db3f732fcb.jpg" width="190" alt="CR7"/>
+    <td align="center" width="230">
+      <img src="https://i.pinimg.com/736x/36/56/0d/36560d19df39d1bbd7d5c7db3f732fcb.jpg" height="330" alt="lion"/>
     </td>
   </tr>
 </table>
@@ -201,11 +201,6 @@
 <!-- animated activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre031222&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%">
-</p>
-
-<!-- 3D contribution graph (needs Action) -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph">
 </p>
 
 ## More about my work
