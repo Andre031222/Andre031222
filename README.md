@@ -14,9 +14,9 @@
       <p>
         <a href="https://andre.net.pe"><img src="https://img.shields.io/badge/Website-0F2444?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
         <a href="mailto:night.fury.oi.ma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-        <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
-        <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://orcid.org/0009-0003-2385-5263"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=60138204900"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white"></a>
+        <a href="https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=414027"><img src="https://img.shields.io/badge/CTI%20Vitae-CONCYTEC-1565C0?style=for-the-badge"></a>
       </p>
     </td>
     <td align="center" width="210">
@@ -61,7 +61,7 @@
 - 📚 **Published / accepted in** `IJACSA` (Scopus Q3) **&** `J. Astrophysics & Astronomy`, with `MDPI` **&** `SoftwareX` in progress
 - 🖥️ I **self-host 10+ production apps** on my own `Linux VPS` — [andre.net.pe](https://andre.net.pe)
 - 🔭 **Currently working on** `Sentinel-2 / Landsat` ensembles for `frost`, `GLOFs` **&** `water quality`
-- 🐧 I **distro-hop** between `Windows` · `Arch Linux` · `macOS`
+- 🐧 I **distro-hop** between `Arch Linux` (Hyprland + Kitty) **&** `Windows` · editor: `VS Code`
 - :email: **Reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=night.fury.oi.ma@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:night.fury.oi.ma@gmail.com)
 - ⚽ Always with the `CR7 mentality` — *"work beats talent"*
 
@@ -72,7 +72,7 @@
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📚 Research
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> Research
 
 <p>
   <img src="https://img.shields.io/badge/Published-2E7D32?style=flat-square">
@@ -90,7 +90,7 @@
 | 2026 | **AlpacaVision AI** — YOLOv11 + EfficientNet for livestock health screening | *MDPI Agriculture* (Q1) | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 | 2026 | **AgroCommish** — desktop tooling for ESP32 agricultural IoT manufacturing | *SoftwareX* | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 
-## 🚀 Featured repositories
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px"></picture> Featured repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -104,48 +104,67 @@
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 🛠️ Tech stack
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px"></picture> Tech stack
 
-#### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,php,html,css,bash,latex&theme=dark" height="42">
-</p>
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="25px"></picture> Languages
 
-#### 🤖 Machine Learning &amp; Data
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="42">
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-#### 🛰️ Remote Sensing &amp; Geospatial
-<p>
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Sentinel--2-0B3D91?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/Landsat-205B2C?style=for-the-badge" height="30">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="30">
-</p>
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="25px"></picture> Machine Learning &amp; Data
 
-#### 🌐 Frameworks &amp; Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,vue,react,tailwind,bootstrap&theme=dark" height="42">
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-#### 🗄️ Databases &amp; Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,debian,apache,docker,git,github&theme=dark" height="42">
-</p>
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="25px"></picture> Remote Sensing &amp; Geospatial
 
-#### 🐧 Daily drivers (I distro-hop)
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" height="30">
-</p>
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![Sentinel-2](https://img.shields.io/badge/Sentinel--2-0B3D91?style=flat-square)
+![Landsat](https://img.shields.io/badge/Landsat-205B2C?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="25px"></picture> Frameworks &amp; Frontend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="25px"></picture> Databases &amp; Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="25px"></picture> Environment (I distro-hop)
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
@@ -189,6 +208,40 @@ When I step away from the models, I'm watching the game. **Football is my discip
 <p align="center">
   <img src="https://raw.githubusercontent.com/Andre031222/Andre031222/output/snake.svg" alt="contribution snake">
 </p>
+
+<!-- ===================== 3D CONTRIBUTION GRAPH (needs Action) ===================== -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph">
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="28px"></picture> More about my work
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📰 Recent publications
+<details open><summary><b>2026</b> · Exoplanet Transit Detection</summary><li>Physics-informed ensemble (BLS + Attention CNN + XGBoost), ROC-AUC 0.9948 — <i>J. Astrophysics &amp; Astronomy</i>, accepted.</li></details>
+<details open><summary><b>2025</b> · Frost Prediction in the Altiplano</summary><li>Benchmark of 12 models over 25 yrs of satellite data — <i>IJACSA</i> 16(9), Scopus Q3. <a href="https://doi.org/10.14569/IJACSA.2025.0160992">DOI</a></li></details>
+<details><summary><b>2026</b> · Pan-Andean GLOF Susceptibility</summary><li>Multitemporal Sentinel-2 ML — <i>IJACSA</i>, submitted.</li></details>
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Currently building
+<details open><summary>Deployed production systems</summary><li>10+ apps on my self-hosted Linux VPS — <a href="https://andre.net.pe">andre.net.pe</a> (Spring Boot · Node.js · PostgreSQL)</li></details>
+<details open><summary>Research software in progress</summary><li>AlpacaVision AI (MDPI), AgroCommish (SoftwareX), Titicaca water-quality monitoring.</li></details>
+<details><summary>Open to collaborate</summary><li>Remote sensing, geospatial ML &amp; environmental-hazard early-warning projects.</li></details>
+
+</td>
+</tr>
+</table>
+
+<details>
+  <summary>📊 <b>show / close my skills chart</b></summary>
+  <br>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Andre031222&skills=Python,Java,TypeScript,C%2523,PHP,PyTorch,TensorFlow,PostgreSQL,Docker,Linux&width=820" width="100%">
+</details>
 
 ## 💬 Random dev quote
 <p align="center">
