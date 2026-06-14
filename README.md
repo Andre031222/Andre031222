@@ -109,14 +109,19 @@
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="25px"></picture> Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="25px"></picture> Machine Learning &amp; Data
@@ -169,47 +174,31 @@
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## ⚽ Beyond the code — El Comandante mentality
-
-When I step away from the models, I'm watching the game. **Football is my discipline engine.** I bring the **CR7 mentality** — relentless work, ambition, never settle — straight into my research routine. Every model trained, every paper submitted: *siuuu*. 🐐
-
-<p>
-  <img src="https://img.shields.io/badge/Football-CR7%20mentality-000000?style=for-the-badge&logo=nike&logoColor=white">
-  <img src="https://img.shields.io/badge/Dream-World%20Cup%20energy-1565C0?style=for-the-badge&logo=fifa&logoColor=white">
-  <img src="https://img.shields.io/badge/Motto-Work%20%3E%20Talent-2E7D32?style=for-the-badge">
-</p>
-
-> **"Talent without working hard is nothing."** — Cristiano Ronaldo
-
-<!-- rainbow divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 📊 GitHub stats
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andre031222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre031222&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andre031222&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre031222&theme=tokyonight&hide_border=true">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andre031222&theme=tokyonight&hide_border=true">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andre031222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7">
-</p>
+<details open>
+  <summary>📈 <b>Detailed stats</b></summary>
+  <br>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre031222&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre031222&theme=tokyonight&hide_border=true&langs_count=15&layout=compact">
+  </p>
+</details>
 
 <!-- animated activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andre031222&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%">
 </p>
 
-<!-- contribution snake (needs the GitHub Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andre031222/Andre031222/output/snake.svg" alt="contribution snake">
-</p>
-
-<!-- ===================== 3D CONTRIBUTION GRAPH (needs Action) ===================== -->
+<!-- 3D contribution graph (needs Action) -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph">
 </p>
