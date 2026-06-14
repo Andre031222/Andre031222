@@ -52,39 +52,22 @@
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 👨‍💻 Who am I
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Who am I
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" />
-</p>
+<picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
-```js
-import { Researcher } from '@andre031222';
+- 🛰️ I research **ML for `environmental remote sensing`** across the Peruvian Andes
+- 🎓 `Statistics & Computer Engineering` at **UNA Puno — FINESI** 🇵🇪
+- 📚 **Published / accepted in** `IJACSA` (Scopus Q3) **&** `J. Astrophysics & Astronomy`, with `MDPI` **&** `SoftwareX` in progress
+- 🖥️ I **self-host 10+ production apps** on my own `Linux VPS` — [andre.net.pe](https://andre.net.pe)
+- 🔭 **Currently working on** `Sentinel-2 / Landsat` ensembles for `frost`, `GLOFs` **&** `water quality`
+- 🐧 I **distro-hop** between `Windows` · `Arch Linux` · `macOS`
+- :email: **Reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=night.fury.oi.ma@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:night.fury.oi.ma@gmail.com)
+- ⚽ Always with the `CR7 mentality` — *"work beats talent"*
 
-class Bio extends Researcher {
-  name        = 'Richar Andre Vilca-Solorzano';
-  title       = 'ML Researcher & Full-Stack Engineer';
-  affiliation = 'UNA Puno — FINESI (Statistics & CS Engineering)';
-  location    = 'Puno, Peru';
-  website     = 'https://andre.net.pe';
-  mindset     = 'CR7: discipline, ambition, no excuses';
-}
+<br clear="right">
 
-class Research extends Researcher {
-  fields = ['Remote Sensing ML', 'Environmental Hazards', 'Astrophysics'];
-  data   = ['Sentinel-2', 'Landsat', 'NASA POWER'];
-  topics = ['Frost prediction', 'GLOFs', 'Water quality', 'Exoplanets'];
-  venues = ['IJACSA', 'J. Astrophysics & Astronomy', 'MDPI', 'SoftwareX'];
-}
-
-class Skills extends Researcher {
-  languages  = ['Python', 'Java', 'C#', 'TypeScript', 'PHP'];
-  ml         = ['PyTorch', 'TensorFlow', 'scikit-learn', 'XGBoost', 'YOLO'];
-  geospatial = ['Google Earth Engine', 'QGIS'];
-  backend    = ['Spring Boot', 'Node.js', 'PostgreSQL'];
-  infra      = ['Linux', 'Docker', 'Apache', 'self-hosted VPS'];
-}
-```
+> 💡 *"Take Andean science to the world stage."* — my long-term goal.
 
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
