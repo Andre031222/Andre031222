@@ -1,7 +1,6 @@
 <!-- ============================================================
      HERO HEADER  ·  CR7 a los lados + saludo
-     NOTA: guarda tus 2 imagenes de CR7 en  assets/
-           como  cr7-left.jpg  y  cr7-right.jpg
+     NOTA: si subes las imagenes como archivos, usa  cr7-left.jpg / cr7-right.jpg
      ============================================================ -->
 <table border="0" align="center">
   <tr>
@@ -9,7 +8,7 @@
       <img src="https://i.pinimg.com/736x/b7/e9/99/b7e9993863151e63082437801c9f54be.jpg" width="190" alt="CR7"/>
     </td>
     <td align="center">
-      <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andre Vilca-Solorzano</h1>
+      <h1>I'm Andre Vilca-Solorzano</h1>
       <h3>ML Researcher &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Remote Sensing &amp; Astrophysics</h3>
       <p>
         <a href="https://andre.net.pe"><img src="https://img.shields.io/badge/Website-0F2444?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -28,13 +27,11 @@
 <p align="center">
   <em>
     This is me, <b>Andre</b> — a researcher &amp; full-stack engineer from
-    <a href="https://www.unap.edu.pe/"><b>Universidad Nacional del Altiplano (FINESI)</b></a>, Puno, Peru 🇵🇪.<br>
-    I build <b>ML systems</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> that turn <b>satellite data</b> into real-world
-    <b>early-warning tools</b> for the Andes 🛰️, and I publish the science behind them 📚.<br>
-    Obsessed with <b>improving</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> — on the keyboard and on the pitch ⚽, with the <b>CR7 mentality</b> 🐐.
+    <a href="https://www.unap.edu.pe/"><b>Universidad Nacional del Altiplano (FINESI)</b></a>, Puno, Peru.<br>
+    I build <b>ML systems</b> that turn <b>satellite data</b> into real-world
+    <b>early-warning tools</b> for the Andes, and I publish the science behind them.<br>
+    Obsessed with <b>improving</b> — on the keyboard and on the pitch, with the <b>CR7 mentality</b>.
   </em>
-  <br><br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"/> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="45"/>
 </p>
 
 <p align="center">
@@ -42,35 +39,35 @@
   <img src="https://img.shields.io/github/followers/Andre031222?style=for-the-badge&color=1565C0&logo=github&label=Followers">
 </p>
 
-<!-- ===================== TERMINAL TYPING (hacker) ===================== -->
+<!-- ===================== TERMINAL TYPING ===================== -->
 <p align="center">
   <a href="https://github.com/Andre031222">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F740&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+ML+Researcher+%26+Full-Stack+Engineer;%24+focus+%E2%86%92+satellite-driven+early+warning+of+hazards;%24+stack+%E2%86%92+Sentinel-2+%7C+Landsat+%7C+NASA+POWER;%24+domains+%E2%86%92+frost+%C2%B7+GLOFs+%C2%B7+water+quality+%C2%B7+astrophysics;%24+mindset+%E2%86%92+CR7%3A+work+%3E+talent%2C+no+excuses">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F740&center=true&vCenter=true&width=780&lines=%24+whoami+-%3E+ML+Researcher+%26+Full-Stack+Engineer;%24+focus+-%3E+satellite-driven+early+warning+of+hazards;%24+stack+-%3E+Sentinel-2+%7C+Landsat+%7C+NASA+POWER;%24+domains+-%3E+frost%2C+GLOFs%2C+water+quality%2C+astrophysics;%24+mindset+-%3E+CR7%3A+work+%3E+talent%2C+no+excuses">
   </a>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Who am I
+## Who am I
 
-<picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
 
-- 🛰️ I research **ML for `environmental remote sensing`** across the Peruvian Andes
-- 🎓 `Statistics & Computer Engineering` at **UNA Puno — FINESI** 🇵🇪
-- 📚 **Published / accepted in** `IJACSA` (Scopus Q3) **&** `J. Astrophysics & Astronomy`, with `MDPI` **&** `SoftwareX` in progress
-- 🖥️ I **self-host 10+ production apps** on my own `Linux VPS` — [andre.net.pe](https://andre.net.pe)
-- 🔭 **Currently working on** `Sentinel-2 / Landsat` ensembles for `frost`, `GLOFs` **&** `water quality`
-- 🐧 I **distro-hop** between `Arch Linux` (Hyprland + Kitty) **&** `Windows` · editor: `VS Code`
-- :email: **Reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=night.fury.oi.ma@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:night.fury.oi.ma@gmail.com)
-- ⚽ Always with the `CR7 mentality` — *"work beats talent"*
+- I research **ML for `environmental remote sensing`** across the Peruvian Andes
+- `Statistics & Computer Engineering` at **UNA Puno — FINESI**
+- **Published / accepted in** `IJACSA` (Scopus Q3) **&** `J. Astrophysics & Astronomy`, with `MDPI` **&** `SoftwareX` in progress
+- I **self-host 10+ production apps** on my own `Linux VPS` — [andre.net.pe](https://andre.net.pe)
+- **Currently working on** `Sentinel-2 / Landsat` ensembles for `frost`, `GLOFs` **&** `water quality`
+- I **distro-hop** between `Arch Linux` (Hyprland + Kitty) **&** `Windows` · editor: `VS Code`
+- **Reach me out** [![Email](https://img.shields.io/static/v1?label=email&message=night.fury.oi.ma@gmail.com&color=EA4335&style=flat-square&logo=gmail&logoColor=white)](mailto:night.fury.oi.ma@gmail.com)
+- Always with the `CR7 mentality` — *"work beats talent"*
 
 <br clear="right">
 
-> 💡 *"Take Andean science to the world stage."* — my long-term goal.
+> *"Take Andean science to the world stage."* — my long-term goal.
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> Research
+## Research
 
 <p>
   <img src="https://img.shields.io/badge/Published-2E7D32?style=flat-square">
@@ -88,89 +85,101 @@
 | 2026 | **AlpacaVision AI** — YOLOv11 + EfficientNet for livestock health screening | *MDPI Agriculture* (Q1) | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 | 2026 | **AgroCommish** — desktop tooling for ESP32 agricultural IoT manufacturing | *SoftwareX* | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px"></picture> Featured repositories
+## Featured repositories
 
 | Repository | Description |
 |------------|-------------|
-| 🌡️ **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost/min-temperature prediction · *IJACSA 2025* |
-| 🪐 **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for Kepler transit detection · *JAA 2026, accepted* |
-| 🏔️ **[GLOFs-Pan-Andina-Mediante-Machine-Learning](https://github.com/Andre031222/GLOFs-Pan-Andina-Mediante-Machine-Learning)** | Pan-Andean glacial-lake outburst flood susceptibility · Sentinel-2 |
-| 💧 **[titicaca-wq-sentinel2](https://github.com/Andre031222/titicaca-wq-sentinel2)** | Harmonized Sentinel-2/Landsat ensemble ML for Lake Titicaca water quality |
-| 🌾 **[agrocommish](https://github.com/Andre031222/agrocommish)** | End-to-end manufacturing &amp; commissioning for ESP32 agricultural IoT nodes |
-| ⚙️ **[jxmvc](https://github.com/Andre031222/jxmvc)** | Lightweight Jakarta EE MVC framework (Lux): 205 KB, zero deps, 1.2 s startup |
+| **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost/min-temperature prediction · *IJACSA 2025* |
+| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for Kepler transit detection · *JAA 2026, accepted* |
+| **[GLOFs-Pan-Andina-Mediante-Machine-Learning](https://github.com/Andre031222/GLOFs-Pan-Andina-Mediante-Machine-Learning)** | Pan-Andean glacial-lake outburst flood susceptibility · Sentinel-2 |
+| **[titicaca-wq-sentinel2](https://github.com/Andre031222/titicaca-wq-sentinel2)** | Harmonized Sentinel-2/Landsat ensemble ML for Lake Titicaca water quality |
+| **[agrocommish](https://github.com/Andre031222/agrocommish)** | End-to-end manufacturing &amp; commissioning for ESP32 agricultural IoT nodes |
+| **[jxmvc](https://github.com/Andre031222/jxmvc)** | Lightweight Jakarta EE MVC framework (Lux): 205 KB, zero deps, 1.2 s startup |
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px"></picture> Tech stack
+## Tech stack
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="25px"></picture> Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+<p>
+  <img height="48" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="48" alt="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img height="48" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="48" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="48" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="48" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img height="48" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="48" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img height="48" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="48" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="48" alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img height="48" alt="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  <img height="48" alt="LaTeX" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="25px"></picture> Machine Learning &amp; Data
+### Machine Learning &amp; Data
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p>
+  <img height="48" alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img height="48" alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img height="48" alt="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
+  <img height="48" alt="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img height="48" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img height="48" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img height="48" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img height="48" alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  &nbsp;<img height="36" alt="XGBoost" src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge">
+  <img height="36" alt="YOLO" src="https://img.shields.io/badge/YOLOv11-111F68?style=for-the-badge">
+</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="25px"></picture> Remote Sensing &amp; Geospatial
+### Remote Sensing &amp; Geospatial
 
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
-![Sentinel-2](https://img.shields.io/badge/Sentinel--2-0B3D91?style=flat-square)
-![Landsat](https://img.shields.io/badge/Landsat-205B2C?style=flat-square)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+<p>
+  <img height="48" alt="QGIS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg">
+  &nbsp;<img height="36" alt="Google Earth Engine" src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white">
+  <img height="36" alt="Sentinel-2" src="https://img.shields.io/badge/Sentinel--2-0B3D91?style=for-the-badge">
+  <img height="36" alt="Landsat" src="https://img.shields.io/badge/Landsat-205B2C?style=for-the-badge">
+  <img height="36" alt="NASA POWER" src="https://img.shields.io/badge/NASA%20POWER-E03C31?style=for-the-badge&logo=nasa&logoColor=white">
+</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="25px"></picture> Frameworks &amp; Frontend
+### Frameworks &amp; Frontend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<p>
+  <img height="48" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img height="48" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="48" alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img height="48" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="48" alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img height="48" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="25px"></picture> Databases &amp; Infra
+### Databases &amp; Infra
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+  <img height="48" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="48" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="48" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height="48" alt="Debian" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img height="48" alt="Apache" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img height="48" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="48" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="25px"></picture> Environment (I distro-hop)
+### Environment (I distro-hop)
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
-![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img height="48" alt="Arch Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+  <img height="48" alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img height="48" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  &nbsp;<img height="36" alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black">
+  <img height="36" alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white">
+</p>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Andre031222&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%">
@@ -181,7 +190,7 @@
 </p>
 
 <details open>
-  <summary>📈 <b>Detailed stats</b></summary>
+  <summary><b>Detailed stats</b></summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre031222&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues">
@@ -199,13 +208,13 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph">
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="28px"></picture> More about my work
+## More about my work
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 📰 Recent publications
+### Recent publications
 <details open><summary><b>2026</b> · Exoplanet Transit Detection</summary><li>Physics-informed ensemble (BLS + Attention CNN + XGBoost), ROC-AUC 0.9948 — <i>J. Astrophysics &amp; Astronomy</i>, accepted.</li></details>
 <details open><summary><b>2025</b> · Frost Prediction in the Altiplano</summary><li>Benchmark of 12 models over 25 yrs of satellite data — <i>IJACSA</i> 16(9), Scopus Q3. <a href="https://doi.org/10.14569/IJACSA.2025.0160992">DOI</a></li></details>
 <details><summary><b>2026</b> · Pan-Andean GLOF Susceptibility</summary><li>Multitemporal Sentinel-2 ML — <i>IJACSA</i>, submitted.</li></details>
@@ -213,7 +222,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🚀 Currently building
+### Currently building
 <details open><summary>Deployed production systems</summary><li>10+ apps on my self-hosted Linux VPS — <a href="https://andre.net.pe">andre.net.pe</a> (Spring Boot · Node.js · PostgreSQL)</li></details>
 <details open><summary>Research software in progress</summary><li>AlpacaVision AI (MDPI), AgroCommish (SoftwareX), Titicaca water-quality monitoring.</li></details>
 <details><summary>Open to collaborate</summary><li>Remote sensing, geospatial ML &amp; environmental-hazard early-warning projects.</li></details>
@@ -223,17 +232,14 @@
 </table>
 
 <details>
-  <summary>📊 <b>show / close my skills chart</b></summary>
+  <summary><b>Skills chart (open / close)</b></summary>
   <br>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Andre031222&skills=Python,Java,TypeScript,C%2523,PHP,PyTorch,TensorFlow,PostgreSQL,Docker,Linux&width=820" width="100%">
 </details>
 
-## 💬 Random dev quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote">
-</p>
+---
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0F2444&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9A%BD&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0F2444&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%">
 </p>
