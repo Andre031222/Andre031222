@@ -49,8 +49,7 @@
   </a>
 </p>
 
-<!-- rainbow divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Who am I
 
@@ -69,8 +68,7 @@
 
 > 💡 *"Take Andean science to the world stage."* — my long-term goal.
 
-<!-- rainbow divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> Research
 
@@ -101,8 +99,7 @@
 | 🌾 **[agrocommish](https://github.com/Andre031222/agrocommish)** | End-to-end manufacturing &amp; commissioning for ESP32 agricultural IoT nodes |
 | ⚙️ **[jxmvc](https://github.com/Andre031222/jxmvc)** | Lightweight Jakarta EE MVC framework (Lux): 205 KB, zero deps, 1.2 s startup |
 
-<!-- rainbow divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="30px"></picture> Tech stack
 
@@ -171,8 +168,7 @@
 ![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<!-- rainbow divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> GitHub stats
 
