@@ -137,8 +137,8 @@
 ### Remote Sensing &amp; Geospatial
 
 <p>
-  <img height="48" alt="QGIS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qgis/qgis-original.svg">
-  &nbsp;<img height="36" alt="Google Earth Engine" src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white">
+  <img height="36" alt="QGIS" src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
+  <img height="36" alt="Google Earth Engine" src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white">
   <img height="36" alt="Sentinel-2" src="https://img.shields.io/badge/Sentinel--2-0B3D91?style=for-the-badge">
   <img height="36" alt="Landsat" src="https://img.shields.io/badge/Landsat-205B2C?style=for-the-badge">
   <img height="36" alt="NASA POWER" src="https://img.shields.io/badge/NASA%20POWER-E03C31?style=for-the-badge&logo=nasa&logoColor=white">
