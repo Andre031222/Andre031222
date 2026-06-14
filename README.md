@@ -54,48 +54,37 @@
 
 ## 👨‍💻 Who am I
 
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="280" align="right" alt="unicorn"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" />
+</p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"> ***Talking about my world...***
+```js
+import { Researcher } from '@andre031222';
 
-&nbsp;&nbsp;✔ 🛰️ Currently **researching** ML for **environmental remote sensing** across the Peruvian Andes <br>
-&nbsp;&nbsp;✔ 🖥️ **Self-hosting 10+ production apps** on my own Linux VPS — [andre.net.pe](https://andre.net.pe) <br>
-&nbsp;&nbsp;✔ 📚 **Publishing** in *IJACSA · Journal of Astrophysics &amp; Astronomy · MDPI · SoftwareX* <br>
-&nbsp;&nbsp;✔ 🌱 Currently **learning** deep learning for satellite time-series &amp; physics-informed ML <br>
-&nbsp;&nbsp;✔ 🤝 **Open to collaborate** on remote sensing, geospatial ML &amp; environmental-hazard projects <br>
-&nbsp;&nbsp;✔ 💬 **Ask me about** Sentinel-2 / Landsat, frost prediction, ensemble ML, Spring Boot &amp; self-hosting <br>
-&nbsp;&nbsp;✔ 🐧 I **distro-hop** between Windows · Arch Linux · macOS <br>
-&nbsp;&nbsp;✔ ⚽ Fun fact: I bring the **CR7 mentality** to every model I train — *work beats talent* <br>
-&nbsp;&nbsp;✔ 📫 Reach me at **night.fury.oi.ma@gmail.com** <br>
+class Bio extends Researcher {
+  name        = 'Richar Andre Vilca-Solorzano';
+  title       = 'ML Researcher & Full-Stack Engineer';
+  affiliation = 'UNA Puno — FINESI (Statistics & CS Engineering)';
+  location    = 'Puno, Peru';
+  website     = 'https://andre.net.pe';
+  mindset     = 'CR7: discipline, ambition, no excuses';
+}
 
-```python
-class Researcher:
-    def __init__(self):
-        self.name        = "Richar Andre Vilca-Solorzano"
-        self.role        = "ML Researcher & Full-Stack Engineer"
-        self.affiliation = "UNA Puno — FINESI (Statistics & CS Engineering)"
-        self.location    = "Puno, Peru"
-        self.mindset     = "CR7 mentality: discipline, ambition, no excuses"
+class Research extends Researcher {
+  fields = ['Remote Sensing ML', 'Environmental Hazards', 'Astrophysics'];
+  data   = ['Sentinel-2', 'Landsat', 'NASA POWER'];
+  topics = ['Frost prediction', 'GLOFs', 'Water quality', 'Exoplanets'];
+  venues = ['IJACSA', 'J. Astrophysics & Astronomy', 'MDPI', 'SoftwareX'];
+}
 
-    @property
-    def focus(self):
-        return [
-            "ML / DL for satellite time-series (Sentinel-2, Landsat, NASA POWER)",
-            "Environmental hazard modeling (frost, GLOFs, water quality)",
-            "Physics-informed pipelines for astrophysics",
-            "Production research software, self-hosted",
-        ]
-
-    def life_goal(self):
-        # Train like a champion — on the keyboard and on the pitch
-        return "Take Andean science to the world stage"
-
-
-me = Researcher()
-print(me.life_goal())   # -> "Take Andean science to the world stage"
+class Skills extends Researcher {
+  languages  = ['Python', 'Java', 'C#', 'TypeScript', 'PHP'];
+  ml         = ['PyTorch', 'TensorFlow', 'scikit-learn', 'XGBoost', 'YOLO'];
+  geospatial = ['Google Earth Engine', 'QGIS'];
+  backend    = ['Spring Boot', 'Node.js', 'PostgreSQL'];
+  infra      = ['Linux', 'Docker', 'Apache', 'self-hosted VPS'];
+}
 ```
-
-<br clear="right"/>
 
 <!-- rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
