@@ -54,15 +54,19 @@
 
 ## 👨‍💻 Who am I
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" align="right" alt="coding"/>
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="280" align="right" alt="unicorn"/>
 
-- 🛰️ **ML Researcher** turning satellite data into early-warning systems for the Andes
-- 🎓 **Statistics &amp; Computer Engineering** — Universidad Nacional del Altiplano (FINESI), Puno 🇵🇪
-- 🔭 Working across **Earth observation, environmental hazards &amp; astrophysics**
-- 🖥️ **Full-stack engineer** — I self-host 10+ production apps on my own Linux VPS
-- 🐧 Distro-hopper: I move between **Windows · Arch Linux · macOS**
-- ⚽ Fueled by football and the **CR7 mentality** — work beats talent
-- 📫 Reach me at **night.fury.oi.ma@gmail.com**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px"> ***Talking about my world...***
+
+&nbsp;&nbsp;✔ 🛰️ Currently **researching** ML for **environmental remote sensing** across the Peruvian Andes <br>
+&nbsp;&nbsp;✔ 🖥️ **Self-hosting 10+ production apps** on my own Linux VPS — [andre.net.pe](https://andre.net.pe) <br>
+&nbsp;&nbsp;✔ 📚 **Publishing** in *IJACSA · Journal of Astrophysics &amp; Astronomy · MDPI · SoftwareX* <br>
+&nbsp;&nbsp;✔ 🌱 Currently **learning** deep learning for satellite time-series &amp; physics-informed ML <br>
+&nbsp;&nbsp;✔ 🤝 **Open to collaborate** on remote sensing, geospatial ML &amp; environmental-hazard projects <br>
+&nbsp;&nbsp;✔ 💬 **Ask me about** Sentinel-2 / Landsat, frost prediction, ensemble ML, Spring Boot &amp; self-hosting <br>
+&nbsp;&nbsp;✔ 🐧 I **distro-hop** between Windows · Arch Linux · macOS <br>
+&nbsp;&nbsp;✔ ⚽ Fun fact: I bring the **CR7 mentality** to every model I train — *work beats talent* <br>
+&nbsp;&nbsp;✔ 📫 Reach me at **night.fury.oi.ma@gmail.com** <br>
 
 ```python
 class Researcher:
