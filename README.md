@@ -81,20 +81,39 @@
 | 2026 | **Physics-Informed Ensemble Learning for Exoplanet Transit Detection** — BLS + Attention CNN + XGBoost (ROC-AUC 0.9948) | *Journal of Astrophysics and Astronomy* (Springer) | ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
 | 2025 | **Comparative Analysis of Statistical, ML &amp; DL for Frost Prediction in the Peruvian Altiplano** | *IJACSA* 16(9) · SCOPUS Q3 · [DOI](https://doi.org/10.14569/IJACSA.2025.0160992) | ![](https://img.shields.io/badge/Published-2E7D32?style=flat-square) |
 | 2026 | **ML-Based Pan-Andean GLOF Susceptibility** — multitemporal Sentinel-2 | *IJACSA* | ![](https://img.shields.io/badge/Submitted-1565C0?style=flat-square) |
-| 2026 | **Harmonized Sentinel-2/Landsat Monitoring of Lake Titicaca** — Chl-a &amp; turbidity (2016–2025) | Manuscript | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
-| 2026 | **AlpacaVision AI** — YOLOv11 + EfficientNet for livestock health screening | *MDPI Agriculture* (Q1) | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
+| 2026 | **Harmonized Sentinel-2/Landsat Retrieval of Water Transparency (Secchi Depth) in Lake Titicaca** — validated against in-situ measurements | *Earth Science Informatics* (Springer) | ![](https://img.shields.io/badge/Under%20review-1565C0?style=flat-square) |
+| 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Animals* (MDPI, Q1) | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 | 2026 | **AgroCommish** — desktop tooling for ESP32 agricultural IoT manufacturing | *SoftwareX* | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 
 ## Featured repositories
 
 | Repository | Description |
 |------------|-------------|
+| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · *JAA 2026, accepted* |
 | **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost/min-temperature prediction · *IJACSA 2025* |
-| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for Kepler transit detection · *JAA 2026, accepted* |
-| **[GLOFs-Pan-Andina-Mediante-Machine-Learning](https://github.com/Andre031222/GLOFs-Pan-Andina-Mediante-Machine-Learning)** | Pan-Andean glacial-lake outburst flood susceptibility · Sentinel-2 |
-| **[titicaca-wq-sentinel2](https://github.com/Andre031222/titicaca-wq-sentinel2)** | Harmonized Sentinel-2/Landsat ensemble ML for Lake Titicaca water quality |
-| **[agrocommish](https://github.com/Andre031222/agrocommish)** | End-to-end manufacturing &amp; commissioning for ESP32 agricultural IoT nodes |
-| **[jxmvc](https://github.com/Andre031222/jxmvc)** | Lightweight Jakarta EE MVC framework (Lux): 205 KB, zero deps, 1.2 s startup |
+| **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline, manuscript &amp; collaborative validation web app for Pan-Andean GLOF susceptibility |
+| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca · *Earth Science Informatics, under review* |
+| **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in Altiplano alpacas · *Animals (MDPI)* |
+| **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture |
+
+---
+
+## Software engineering · production systems
+
+<sub>🔒 Private repositories — real institutional systems I design, build &amp; self-host. Details below since the code isn't public.</sub>
+
+| System | What it does | Stack |
+|--------|--------------|-------|
+| **CITAE** | All-in-one academic platform to discover, read, verify, cite &amp; share scientific literature, AI-powered | React · Express · PostgreSQL (monorepo) |
+| **ZAMASU** · SUNEDU API | Verification of official degrees &amp; titles from Peru's SUNEDU registry — REST API + SSE, institutional portal &amp; Chrome extension | Express · SSE · Next.js 16 · PostgreSQL |
+| **DIRESC** | Academic transparency &amp; management for the School Directorate, FINESI — UNA Puno | Spring Boot 3 · Next.js 16 · PostgreSQL |
+| **SIEP-UNAJ** | Postgraduate admission-interview system, Univ. Nacional de Juliaca | Spring Boot 3 · Svelte 4 · PostgreSQL |
+| **Colegio de Estadísticos** · Puno | Web system for Peru's Statisticians Board (Puno regional council) | React · TypeScript · C++ (LxFramework) · PostgreSQL |
+| **Citas Médicas** · UNA Puno | University medical-appointment booking &amp; management | React · Express · PostgreSQL |
+| **BioGest** | Biometric university attendance management | C# · .NET 10 · Avalonia · PostgreSQL |
+| **Stockia** | Inventory management — products, movements, alerts &amp; reports | Laravel 12 · Filament 4 · PostgreSQL |
+
+<sub>Plus <b>SeguimientoEgresados</b> (alumni tracking) &amp; other internal tools — 10+ apps self-hosted on my Linux VPS · <a href="https://andre.net.pe">andre.net.pe</a></sub>
 
 ---
 
@@ -219,7 +238,7 @@
 
 ### Currently building
 <details open><summary>Deployed production systems</summary><li>10+ apps on my self-hosted Linux VPS — <a href="https://andre.net.pe">andre.net.pe</a> (Spring Boot · Node.js · PostgreSQL)</li></details>
-<details open><summary>Research software in progress</summary><li>AlpacaVision AI (MDPI), AgroCommish (SoftwareX), Titicaca water-quality monitoring.</li></details>
+<details open><summary>Research software in progress</summary><li>AlpacaVision (Animals · MDPI), AgroCommish / AgroYachay IoT, Titicaca water-transparency (Earth Science Informatics · under review).</li></details>
 <details><summary>Open to collaborate</summary><li>Remote sensing, geospatial ML &amp; environmental-hazard early-warning projects.</li></details>
 
 </td>
