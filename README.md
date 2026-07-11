@@ -198,3 +198,8 @@
 
 ---
 
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0F2444&height=120&section=footer&text=Thanks%20for%20visiting&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%">
+</p>
