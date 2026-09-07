@@ -87,22 +87,21 @@
 | 2026 | **AgroCommish** — Desktop tool for end-to-end manufacturing and commissioning of agricultural IoT sensor nodes | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
 | 2026 | **AgroYachay** — IoT + LLM platform for climate-smart decision support in Andean agriculture | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
 | 2026 | **JxMVC** — MVC framework for Jakarta EE with zero external runtime dependencies | — | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
-| 2026 | **Monthly Temperature Forecasting Across the Peruvian Altiplano** — when multiple linear regression beats machine learning | — | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
-| 2026 | **Harmonized Sentinel-2/Landsat Retrieval of Water Transparency (Secchi Depth) in Lake Titicaca** — validated against in-situ measurements | — | ![](https://img.shields.io/badge/Working%20on%20it-616161?style=flat-square) |
-| 2026 | **Continental-Scale GLOF Susceptibility Across the Andes** — explainable ML, leakage-free evaluation | — | ![](https://img.shields.io/badge/Working%20on%20it-616161?style=flat-square) |
+| 2026 | **Harmonized Sentinel-2/Landsat Retrieval of Water Transparency (Secchi Depth) in Lake Titicaca** — validated against in-situ measurements | — | ![](https://img.shields.io/badge/In%20process-616161?style=flat-square) |
+| 2026 | **Continental-Scale GLOF Susceptibility Across the Andes** — explainable ML, leakage-free evaluation | — | ![](https://img.shields.io/badge/In%20process-616161?style=flat-square) |
 
 ## Featured repositories
 
 | Repository | Description |
 |------------|-------------|
-| **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost / min-temperature prediction · *IJACSA 2025, published* |
-| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · *JAA 2026, accepted* |
-| **[Citae-Ginit](https://github.com/Andre031222/Citae-Ginit)** | Passage-verifiable RAG platform for the scientific-literature workflow · *Informatica 2026, accepted* |
-| **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle · *Informatica 2026, accepted (co-author)* |
-| **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in Altiplano alpacas · *Informatica, under review* |
-| **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture |
-| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca · *in preparation* |
-| **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline, manuscript &amp; collaborative validation web app for continental-scale GLOF susceptibility · *in preparation* |
+| **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost / min-temperature prediction · ![](https://img.shields.io/badge/Published-2E7D32?style=flat-square) |
+| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · ![](https://img.shields.io/badge/Published-2E7D32?style=flat-square) |
+| **[Citae-Ginit](https://github.com/Andre031222/Citae-Ginit)** | Passage-verifiable RAG platform for the scientific-literature workflow · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
+| **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle *(co-author)* · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
+| **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in Altiplano alpacas · ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
+| **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture · ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
+| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca · ![](https://img.shields.io/badge/In%20process-616161?style=flat-square) |
+| **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline, manuscript &amp; collaborative validation web app for continental-scale GLOF susceptibility · ![](https://img.shields.io/badge/In%20process-616161?style=flat-square) |
 
 ---
 
