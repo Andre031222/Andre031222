@@ -86,6 +86,8 @@
 | 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Informatica* (Slovenia) · Scopus | ![](https://img.shields.io/badge/Under%20review-1565C0?style=flat-square) |
 | 2026 | **Radial Basis Function Networks with Adaptive Widths** — reproducible benchmark on 8 real datasets | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
 | 2026 | **AgroCommish / AgroYachay** — IoT + LLM tooling for climate-smart Andean agriculture | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-616161?style=flat-square) |
+| 2026 | **Harmonized Sentinel-2/Landsat Retrieval of Water Transparency (Secchi Depth) in Lake Titicaca** — validated against in-situ measurements | — | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
+| 2026 | **Continental-Scale GLOF Susceptibility Across the Andes** — explainable ML, leakage-free evaluation | — | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 | 2026 | **Monthly Temperature Forecasting Across the Peruvian Altiplano** — when multiple linear regression beats machine learning | — | ![](https://img.shields.io/badge/In%20preparation-616161?style=flat-square) |
 
 ## Featured repositories
@@ -98,6 +100,8 @@
 | **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle · *Informatica 2026, accepted (co-author)* |
 | **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in Altiplano alpacas · *Informatica, under review* |
 | **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture |
+| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca · *in preparation* |
+| **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline, manuscript &amp; collaborative validation web app for continental-scale GLOF susceptibility · *in preparation* |
 
 ---
 
