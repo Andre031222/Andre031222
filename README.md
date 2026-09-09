@@ -79,9 +79,9 @@
 
 | Year | Work | Venue | Status |
 |------|------|-------|--------|
-| 2025 | **Comparative Analysis of Statistical, ML &amp; DL for Frost Prediction in the Peruvian Altiplano** | *IJACSA* 16(9) · Scopus Q3 · [DOI](https://doi.org/10.14569/IJACSA.2025.0160992) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
-| 2026 | **Physics-Informed Ensemble Learning for Exoplanet Transit Detection** — BLS + Attention CNN + XGBoost (ROC-AUC 0.9948) | *Journal of Astrophysics and Astronomy* (Springer) · [DOI](https://doi.org/10.1007/s12036-026-10172-1) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | 2026 | **Multiple Linear Regression Outperforms Machine Learning for Monthly Temperature Forecasting across the Peruvian Altiplano** — verified against climatology, replicated across 11 series (Puno, Peru) | *World Journal of Environmental Biosciences* 15(3) · Scopus Q2 · [DOI](https://doi.org/10.51847/zMqqEu22RP) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| 2026 | **Physics-Informed Ensemble Learning for Exoplanet Transit Detection** — BLS + Attention CNN + XGBoost (ROC-AUC 0.9948) | *Journal of Astrophysics and Astronomy* (Springer) · [DOI](https://doi.org/10.1007/s12036-026-10172-1) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| 2025 | **Comparative Analysis of Statistical, ML &amp; DL for Frost Prediction in the Peruvian Altiplano** | *IJACSA* 16(9) · Scopus Q3 · [DOI](https://doi.org/10.14569/IJACSA.2025.0160992) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | 2026 | **CITAE — A Passage-Verifiable Retrieval-Augmented Generation Platform** for the scientific-literature workflow | *Informatica* (Slovenia) · Scopus | ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
 | 2026 | **ML-Based Runtime Prediction &amp; Energy Optimization for HPC Job Scheduling** — NREL Eagle, 7.3M jobs *(co-author)* | *Informatica* (Slovenia) · Scopus / ESCI | ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
 | 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Informatica* (Slovenia) · Scopus | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
@@ -95,9 +95,9 @@
 
 | Repository | Description |
 |------------|-------------|
-| **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost / min-temperature prediction (Puno, Peru) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
-| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[monthly-temperature-forecasting-altiplano](https://github.com/Andre031222/monthly-temperature-forecasting-altiplano)** | When multiple linear regression beats ML for monthly temperature forecasting (Altiplano, Peru) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost / min-temperature prediction (Puno, Peru) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[Citae-Ginit](https://github.com/Andre031222/Citae-Ginit)** | Passage-verifiable RAG platform for the scientific-literature workflow · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
 | **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle *(co-author)* · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
 | **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in alpacas (Altiplano, Peru) · ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
