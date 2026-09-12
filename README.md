@@ -54,7 +54,7 @@
 
 - I research **ML for `environmental remote sensing`** across the Peruvian Andes
 - `Statistics & Computer Engineering` at **UNA Puno — FINESI**
-- **5 articles published or accepted** — `World J. Environmental Biosciences` (Scopus Q2), `J. Astrophysics & Astronomy` (Springer, Scopus Q2), `IJACSA` (Scopus Q3) **&** `Informatica` (Scopus) ×2
+- **5 articles published or accepted** — `World J. Environmental Biosciences` (Scopus Q2), `J. Astrophysics & Astronomy` (Springer, Scopus Q2), `IJACSA` (Scopus Q3) **&** `Informatica` (Slovenia) ×2
 - I **self-host 10+ production apps** on my own `Linux VPS` — [andre.net.pe](https://andre.net.pe)
 - **Currently working on** `Sentinel-2 / Landsat` ensembles for `frost`, `GLOFs` **&** `water quality`
 - I **distro-hop** between `Arch Linux` (Hyprland + Kitty) **&** `Windows` · editor: `VS Code`
@@ -82,9 +82,9 @@
 | 2026 | **Multiple Linear Regression Outperforms Machine Learning for Monthly Temperature Forecasting across the Peruvian Altiplano** — verified against climatology, replicated across 11 series (Puno, Peru) | *World Journal of Environmental Biosciences* 15(3) · Scopus Q2 · [DOI](https://doi.org/10.51847/zMqqEu22RP) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | 2026 | **Physics-Informed Ensemble Learning for Exoplanet Transit Detection** — BLS + Attention CNN + XGBoost (ROC-AUC 0.9948) | *Journal of Astrophysics and Astronomy* 47, 53 (Springer) · Scopus Q2 · [DOI](https://doi.org/10.1007/s12036-026-10172-1) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | 2025 | **Comparative Analysis of Statistical, ML &amp; DL for Frost Prediction in the Peruvian Altiplano** | *IJACSA* 16(9) · Scopus Q3 · [DOI](https://doi.org/10.14569/IJACSA.2025.0160992) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
-| 2026 | **CITAE — A Passage-Verifiable Retrieval-Augmented Generation Platform** for the scientific-literature workflow | *Informatica* (Slovenia) · Scopus | ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
-| 2026 | **ML-Based Runtime Prediction &amp; Energy Optimization for HPC Job Scheduling** — NREL Eagle, 7.3M jobs *(co-author)* | *Informatica* (Slovenia) · Scopus / ESCI | ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
-| 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Informatica* (Slovenia) · Scopus | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
+| 2026 | **CITAE — A Passage-Verifiable Retrieval-Augmented Generation Platform** for the scientific-literature workflow | *Informatica* 50(15) · [DOI](https://doi.org/10.31449/inf.v50i15.15471) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| 2026 | **ML-Based Runtime Prediction &amp; Energy Optimization for HPC Job Scheduling** — NREL Eagle, 7.3M jobs *(co-author)* | *Informatica* 50(15) · [DOI](https://doi.org/10.31449/inf.v50i15.15344) | ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Venue to be confirmed* | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
 | 2026 | **AgroCommish** — Desktop tool for end-to-end manufacturing and commissioning of agricultural IoT sensor nodes | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
 | 2026 | **AgroYachay** — IoT + LLM platform for climate-smart decision support in Andean agriculture | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
 | 2026 | **JxMVC** — MVC framework for Jakarta EE with zero external runtime dependencies | *Journal of Systems and Software* (Elsevier) | ![](https://img.shields.io/badge/In%20preparation-FFB300?style=flat-square) |
@@ -98,8 +98,8 @@
 | **[monthly-temperature-forecasting-altiplano](https://github.com/Andre031222/monthly-temperature-forecasting-altiplano)** | When multiple linear regression beats ML for monthly temperature forecasting (Altiplano, Peru) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[ExoplanetHybridPipeline](https://github.com/Andre031222/ExoplanetHybridPipeline)** | Physics-informed ensemble for exoplanet transit detection (BLS + Attention CNN + XGBoost) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[frost-prediction-altiplano-puno](https://github.com/Andre031222/frost-prediction-altiplano-puno)** | Benchmark of 12 forecasting models for frost / min-temperature prediction (Puno, Peru) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
-| **[Citae-Ginit](https://github.com/Andre031222/Citae-Ginit)** | Passage-verifiable RAG platform for the scientific-literature workflow · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
-| **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle *(co-author)* · ![](https://img.shields.io/badge/Accepted-2E7D32?style=flat-square) |
+| **[Citae-Ginit](https://github.com/Andre031222/Citae-Ginit)** | Passage-verifiable RAG platform for the scientific-literature workflow · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
+| **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle *(co-author)* · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in alpacas (Altiplano, Peru) · ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
 | **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture (Andes) · ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
 | **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca (Peru/Bolivia) · ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) |
