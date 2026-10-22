@@ -72,6 +72,7 @@
 <p>
   <img src="https://img.shields.io/badge/Published-1565C0?style=flat-square">
   <img src="https://img.shields.io/badge/Accepted-2E7D32?style=flat-square">
+  <img src="https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square">
   <img src="https://img.shields.io/badge/In%20revision-F57C00?style=flat-square">
   <img src="https://img.shields.io/badge/In%20process-FFB300?style=flat-square">
   <img src="https://img.shields.io/badge/In%20preparation-FFB300?style=flat-square">
@@ -88,7 +89,7 @@
 | 7 | 2026 | **AgroCommish** — Desktop tool for end-to-end manufacturing and commissioning of agricultural IoT sensor nodes | *SoftwareX* | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) | [GitHub](https://github.com/Andre031222/agrocommish) |
 | 8 | 2026 | **AlpacaVision — Altiplano** — leakage-free dataset &amp; compact YOLOv11 for alpaca morphological-anomaly detection | *Venue to be confirmed* | ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) | [GitHub](https://github.com/Andre031222/alpacavision-altiplano) |
 | 9 | 2026 | **JxMVC** — MVC framework for Jakarta EE with zero external runtime dependencies | *Journal of Systems and Software* (Elsevier) | ![](https://img.shields.io/badge/In%20preparation-FFB300?style=flat-square) | - |
-| 10 | 2026 | **Harmonized Sentinel-2/Landsat Retrieval of Water Transparency (Secchi Depth) in Lake Titicaca** — validated against in-situ measurements (Peru/Bolivia) | *Environmental Monitoring &amp; Assessment* (Springer) | ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) | [GitHub](https://github.com/Andre031222/harmonized-titicaca-transparency) |
+| 10 | 2026 | **Harmonized Landsat–Sentinel-2 Separability over Lakes and Campaign-Level Validation of Satellite Secchi Depth in Lake Titicaca** — NASA HLS sensors stay separable over water in 27 lakes; campaign-blocked validation (Peru/Bolivia) | *Remote Sensing Applications: Society and Environment* (Elsevier) | ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) | [GitHub](https://github.com/Andre031222/harmonized-titicaca-transparency) |
 | 11 | 2026 | **Continental-Scale GLOF Susceptibility Across the Andes** — explainable ML, leakage-free evaluation (South America) | *Natural Hazards* (Springer) · Q1 | ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) | [GitHub](https://github.com/Andre031222/pan-andean-glof-susceptibility) |
 
 ## Featured repositories
@@ -102,7 +103,7 @@
 | **[hpc-runtime-prediction](https://github.com/rntvargas/hpc-runtime-prediction)** | ML runtime prediction &amp; energy optimization for HPC job scheduling on NREL Eagle *(co-author)* · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[agroyachay](https://github.com/Andre031222/agroyachay)** | Open-source IoT + LLM platform for climate-smart decision support in Andean agriculture (Andes) · ![](https://img.shields.io/badge/Published-1565C0?style=flat-square) |
 | **[alpacavision-altiplano](https://github.com/Andre031222/alpacavision-altiplano)** | Leakage-free dataset &amp; compact YOLOv11 detector for morphological anomalies in alpacas (Altiplano, Peru) · ![](https://img.shields.io/badge/In%20revision-F57C00?style=flat-square) |
-| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Harmonized Sentinel-2/Landsat retrieval of water transparency (Secchi depth) in Lake Titicaca (Peru/Bolivia) · ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) |
+| **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Landsat–Sentinel-2 (NASA HLS) separability over 27 lakes and campaign-level validation of Secchi depth in Lake Titicaca (Peru/Bolivia) · ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) |
 | **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline &amp; collaborative validation web app for continental-scale GLOF susceptibility (Andes, South America) · ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) |
 
 ---
