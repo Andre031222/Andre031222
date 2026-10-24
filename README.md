@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/In%20revision-F57C00?style=flat-square">
   <img src="https://img.shields.io/badge/In%20process-FFB300?style=flat-square">
   <img src="https://img.shields.io/badge/In%20preparation-FFB300?style=flat-square">
-  <img src="https://img.shields.io/badge/Ready%20for%20submission-00897B?style=flat-square">
 </p>
 
 | N° | Year | Work | Venue | Status | Code |
@@ -93,7 +92,7 @@
 | 10 | 2026 | **JxMVC: a secure-by-default web framework without third-party dependencies** — 17 of 18 default protections vs 8–9 in Spring Boot, Quarkus, Micronaut and Javalin; 120.9 M requests without errors | *Software Quality Journal* (Springer) | ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) | [GitHub](https://github.com/Andre031222/jxmvc) |
 | 11 | 2026 | **Harmonized Landsat–Sentinel-2 Separability over Lakes and Campaign-Level Validation of Satellite Secchi Depth in Lake Titicaca** — NASA HLS sensors stay separable over water in 27 lakes; campaign-blocked validation (Peru/Bolivia) | *Physics and Chemistry of the Earth* (Elsevier) | ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) | [GitHub](https://github.com/Andre031222/harmonized-titicaca-transparency) |
 | 12 | 2026 | **Continental-Scale GLOF Susceptibility Across the Andes** — explainable ML, leakage-free evaluation (South America) | *Natural Hazards* (Springer) · Q1 | ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) | [GitHub](https://github.com/Andre031222/pan-andean-glof-susceptibility) |
-| 13 | 2026 | **Machine Learning Prediction of Live Weight from Zoometric Measurements in Ch'acu and K'ara Llamas** — nested cross-validation of 11 models and field equations (240 llamas, Puno, Peru) | *Smart Agricultural Technology* (Elsevier) · [Scimago](https://www.scimagojr.com/journalsearch.php?q=2772-3755) | ![](https://img.shields.io/badge/Ready%20for%20submission-00897B?style=flat-square) | [GitHub](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas) |
+| 13 | 2026 | **Machine Learning Prediction of Live Weight from Zoometric Measurements in Ch'acu and K'ara Llamas** — nested cross-validation of 11 models and field equations (240 llamas, Puno, Peru) | *Smart Agricultural Technology* (Elsevier) · [Scimago Verified: Scopus Q1](https://www.scimagojr.com/journalsearch.php?q=21101111783&tip=sid&clean=0) | ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) | [GitHub](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas) |
 
 ## Featured repositories
 
@@ -110,7 +109,7 @@
 | **[harmonized-titicaca-transparency](https://github.com/Andre031222/harmonized-titicaca-transparency)** | Landsat–Sentinel-2 (NASA HLS) separability over 27 lakes and campaign-level validation of Secchi depth in Lake Titicaca (Peru/Bolivia) · ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) |
 | **[jxmvc](https://github.com/Andre031222/jxmvc)** | Secure-by-default MVC framework for Jakarta EE in a single JAR with zero third-party dependencies — routing, data access, JSON, OpenID Connect, PDF reading &amp; generation · [jxmvc.ginit.dev](https://jxmvc.ginit.dev) · ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) |
 | **[pan-andean-glof-susceptibility](https://github.com/Andre031222/pan-andean-glof-susceptibility)** | Explainable ML pipeline &amp; collaborative validation web app for continental-scale GLOF susceptibility (Andes, South America) · ![](https://img.shields.io/badge/In%20process-FFB300?style=flat-square) |
-| **[ml-live-weight-zoometric-chacu-kara-llamas](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas)** | Nested cross-validation of 11 ML &amp; statistical models to predict llama live weight from body measurements (Puno, Peru) · ![](https://img.shields.io/badge/Ready%20for%20submission-00897B?style=flat-square) |
+| **[ml-live-weight-zoometric-chacu-kara-llamas](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas)** | Nested cross-validation of 11 ML &amp; statistical models to predict llama live weight from body measurements (Puno, Peru) · ![](https://img.shields.io/badge/Submitted-7B1FA2?style=flat-square) |
 
 ---
 
