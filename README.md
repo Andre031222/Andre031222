@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://andre.net.pe"><img src="assets/btn-web.svg" height="52" alt="Website"></a>
-  <a href="mailto:night.fury.oi.ma@gmail.com"><img src="assets/btn-mail.svg" height="52" alt="Email"></a>
-  <a href="https://orcid.org/0009-0003-2385-5263"><img src="assets/btn-orcid.svg" height="52" alt="ORCID"></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60138204900"><img src="assets/btn-scopus.svg" height="52" alt="Scopus"></a>
-  <a href="https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=414027"><img src="assets/btn-cti.svg" height="52" alt="CTI Vitae"></a>
+  <a href="https://andre.net.pe"><img src="assets/btn-web.svg" height="38" alt="Website"></a>
+  <a href="mailto:night.fury.oi.ma@gmail.com"><img src="assets/btn-mail.svg" height="38" alt="Email"></a>
+  <a href="https://orcid.org/0009-0003-2385-5263"><img src="assets/btn-orcid.svg" height="38" alt="ORCID"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=60138204900"><img src="assets/btn-scopus.svg" height="38" alt="Scopus"></a>
+  <a href="https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=414027"><img src="assets/btn-cti.svg" height="38" alt="CTI Vitae"></a>
 </p>
 
 <p align="center">
