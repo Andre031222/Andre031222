@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/universe-banner.svg" alt="banner" width="100%"></p>
+
 <!-- Profile README · R. Andre Vilca-Solorzano
      Images in assets/ are original SVGs made for this profile; technology logos come from Simple Icons (CC0).
      Live cards (stats, languages, snake, 3D calendar) are rebuilt daily by .github/workflows/profile.yml
