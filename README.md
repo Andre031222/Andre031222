@@ -35,7 +35,7 @@ I work at the meeting point of **research** and **full-stack software developmen
 - **Core languages** — `Rust` · `Java` · `C++` · `Node.js` · `TypeScript`; backends in Spring Boot, Jakarta EE, .NET, Express, Django and Laravel
 - **Cross-platform apps** — desktop and device tools that run on `macOS`, `Linux` and `Windows`
 - **Open-source frameworks** — [JxMVC](https://github.com/Andre031222/jxmvc) and [Cero](https://github.com/Andre031222/Cero), Java web frameworks with zero runtime dependencies
-- **Publications** — 6 published and 4 accepted — J. Astrophysics &amp; Astronomy, SoftwareX, World J. Environmental Biosciences, IJACSA, Informatica and Springer proceedings; 7 under review (4 in peer review, 3 with the editor) and 1 in preparation
+- **Publications** — 6 published and 4 accepted — J. Astrophysics &amp; Astronomy, SoftwareX, World J. Environmental Biosciences, IJACSA, Informatica and Springer proceedings; 7 under review (4 in peer review, 3 with the editor)
 - **Production** — 10+ apps running on my own Linux VPS · [andre.net.pe](https://andre.net.pe)
 - **Setup** — `Arch Linux` (Hyprland + Kitty), `macOS` and `Windows`
 - Always with the **CR7 mentality** — *"work beats talent"*
@@ -85,14 +85,6 @@ I work at the meeting point of **research** and **full-stack software developmen
 | 16 | 2026 | **Sampling bias does not only inflate metrics, it moves the map: national-scale palaeontological prospectivity** — Yana-Yucra et al. *(co-author)* | *Palaeontologia Electronica* · [Scimago Verified: Scopus Q1](https://www.scimagojr.com/journalsearch.php?q=14002&tip=sid&clean=0) (Paleontology, SJR 2025 0.646) | ![With editor](https://img.shields.io/badge/With%20editor-7B1FA2?style=flat-square) | — |
 | 17 | 2026 | **JxMVC: a secure-by-default web framework without third-party dependencies** — 17 of 18 default protections vs 8–9 in Spring Boot, Quarkus, Micronaut and Javalin; 120.9 M requests without errors | *Software Quality Journal* (Springer) · [Scimago Verified: Scopus Q2](https://www.scimagojr.com/journalsearch.php?q=20013&tip=sid&clean=0) | ![With editor](https://img.shields.io/badge/With%20editor-7B1FA2?style=flat-square) | [GitHub](https://github.com/Andre031222/jxmvc) |
 
-<p>
-  <img src="https://img.shields.io/badge/In%20preparation-6B7280?style=flat-square" alt="In preparation">
-</p>
-
-| N° | Year | Work | Venue | Status | Code |
-|---|------|------|-------|--------|------|
-| 18 | 2026 | **How Far Does a Glacial Lake Outburst Flood Susceptibility Model Travel? Transfer Tests Across the Andes** — 41-year Landsat/Sentinel-2 lake inventory, spatial and temporal transfer tests (South America) | *Natural Hazards* (Springer) · [Scimago Verified: Scopus Q1](https://www.scimagojr.com/journalsearch.php?q=23282&tip=sid&clean=0) | ![In process](https://img.shields.io/badge/In%20process-6B7280?style=flat-square) | [GitHub](https://github.com/Andre031222/glof-susceptibility-transfer-andes) |
-
 <br>
 
 <img src="assets/h-repos.svg" width="100%" alt="Featured repositories">
@@ -113,7 +105,7 @@ I work at the meeting point of **research** and **full-stack software developmen
 | **[jxmvc](https://github.com/Andre031222/jxmvc)** | Secure-by-default MVC framework for Jakarta EE in a single JAR with zero third-party dependencies — routing, data access, JSON, OpenID Connect, PDF reading &amp; generation · [jxmvc.ginit.dev](https://jxmvc.ginit.dev) · ![](https://img.shields.io/badge/With%20editor-7B1FA2?style=flat-square) |
 | **[ml-live-weight-zoometric-chacu-kara-llamas](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas)** | Nested cross-validation of 11 ML &amp; statistical models to predict llama live weight from body measurements (Puno, Peru) · ![](https://img.shields.io/badge/Under%20peer%20review-F59E0B?style=flat-square) |
 | **[spatial-cv-meta-analysis](https://github.com/Andre031222/spatial-cv-meta-analysis)** | Systematic review &amp; multilevel meta-analysis of 266 studies comparing random and spatial cross-validation in ML environmental mapping (data, code &amp; figures; [OSF](https://doi.org/10.17605/OSF.IO/S8Y5H)) · ![](https://img.shields.io/badge/Under%20peer%20review-F59E0B?style=flat-square) |
-| **[glof-susceptibility-transfer-andes](https://github.com/Andre031222/glof-susceptibility-transfer-andes)** | Annual glacial lake inventory (1985-2025) and transfer tests of GLOF susceptibility models across cordilleras and years (Andes, South America) · ![](https://img.shields.io/badge/In%20process-6B7280?style=flat-square) |
+| **[glof-susceptibility-transfer-andes](https://github.com/Andre031222/glof-susceptibility-transfer-andes)** | Annual glacial lake inventory (1985-2025) and transfer tests of GLOF susceptibility models across cordilleras and years (Andes, South America) |
 
 <br>
 
