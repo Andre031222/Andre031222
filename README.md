@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://andre.net.pe"><img src="assets/btn-web.svg" height="38" alt="Website"></a>
-  <a href="mailto:night.fury.oi.ma@gmail.com"><img src="assets/btn-mail.svg" height="38" alt="Email"></a>
+  <a href="mailto:andresolorzano@lacima.edu.pe"><img src="assets/btn-mail.svg" height="38" alt="Email"></a>
   <a href="https://orcid.org/0009-0003-2385-5263"><img src="assets/btn-orcid.svg" height="38" alt="ORCID"></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=60138204900"><img src="assets/btn-scopus.svg" height="38" alt="Scopus"></a>
   <a href="https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=414027"><img src="assets/btn-cti.svg" height="38" alt="CTI Vitae"></a>
@@ -28,7 +28,7 @@
 <img align="right" src="assets/andes-scan.svg" width="300" alt="Satellite scanning the Andes">
 
 I work at the meeting point of **research** and **full-stack software development**, at
-**[Universidad Nacional del Altiplano (FINESI)](https://www.unap.edu.pe/)** in Puno, Peru — 3,827 m above sea level.
+**LaCima, Faculty of Statistical and Computer Engineering (FINESI), [Universidad Nacional del Altiplano de Puno](https://www.unap.edu.pe/)**, Peru — 3,827 m above sea level.
 
 - **Research & development** — machine learning on `Sentinel-2`, `Landsat` and `NASA` data for frost, glacial-lake floods (GLOFs), water quality and astrophysics, always with open, reproducible code
 - **Full-stack software** — I design, build and self-host institutional systems end to end: backend, frontend, database and server
@@ -107,7 +107,7 @@ I work at the meeting point of **research** and **full-stack software developmen
 | **[jxmvc](https://github.com/Andre031222/jxmvc)** | Secure-by-default MVC framework for Jakarta EE in a single JAR with zero third-party dependencies — routing, data access, JSON, OpenID Connect, PDF reading &amp; generation · [jxmvc.ginit.dev](https://jxmvc.ginit.dev) · ![](https://img.shields.io/badge/With%20editor-7B1FA2?style=flat-square) |
 | **[ml-live-weight-zoometric-chacu-kara-llamas](https://github.com/Andre031222/ml-live-weight-zoometric-chacu-kara-llamas)** | Nested cross-validation of 11 ML &amp; statistical models to predict llama live weight from body measurements (Puno, Peru) · ![](https://img.shields.io/badge/Under%20peer%20review-F59E0B?style=flat-square) |
 | **[spatial-cv-meta-analysis](https://github.com/Andre031222/spatial-cv-meta-analysis)** | Systematic review &amp; multilevel meta-analysis of 266 studies comparing random and spatial cross-validation in ML environmental mapping (data, code &amp; figures; [OSF](https://doi.org/10.17605/OSF.IO/S8Y5H)) · ![](https://img.shields.io/badge/Under%20peer%20review-F59E0B?style=flat-square) |
-| **[glof-susceptibility-transfer-andes](https://github.com/Andre031222/glof-susceptibility-transfer-andes)** | Annual glacial lake inventory (1985-2025) and transfer tests of GLOF susceptibility models across cordilleras and years (Andes, South America) |
+| **[glof-susceptibility-transfer-andes](https://github.com/Andre031222/glof-susceptibility-transfer-andes)** | Annual glacial lake inventory (1985-2025) and transfer tests of GLOF susceptibility models across cordilleras and years (Andes, South America) · [Zenodo](https://doi.org/10.5281/zenodo.24451531) · ![](https://img.shields.io/badge/With%20editor-7B1FA2?style=flat-square) |
 
 <br>
 
